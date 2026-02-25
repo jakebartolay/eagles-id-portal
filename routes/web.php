@@ -2,6 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
+Route::get('https://www.tfoepe-inc.com.ph/laravel-testing/index', function () {
     return view('welcome');
 });
